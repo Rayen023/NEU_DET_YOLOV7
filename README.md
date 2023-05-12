@@ -130,5 +130,3 @@ NOTE : for inference move own Test Data under yolov7/test
 
 
 
-
-# NEU_DET_YOLOV7
